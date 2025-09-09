@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Quick Copy Links",
+  "version": "1.0",
+  "description": "Quickly copy GitHub and LinkedIn URLs.",
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "permissions": ["clipboardWrite"]
+}
